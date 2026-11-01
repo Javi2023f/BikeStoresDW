@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\obj\Debug\BikeStoresDW.sqlproj.AssemblyReference.cache
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\obj\Debug\BikeStoresDW.dll
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\obj\Debug\BikeStoresDW.pdb
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\bin\Debug\BikeStoresDW.dacpac
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\bin\Debug\BikeStoresDW.dll
+C:\Users\User\source\repos\Base de datos I\BikeStoresDW\bin\Debug\BikeStoresDW.pdb
